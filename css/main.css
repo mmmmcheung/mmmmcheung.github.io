@@ -20,3 +20,8 @@ a {
 	color: #363537;
 	text-decoration: underline;
 }
+
+a:hover {
+	color: #363537;
+	text-decoration: #B48EAD;
+}
