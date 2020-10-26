@@ -21,5 +21,20 @@ a {
 	text-decoration: underline;
 }
 .link-1:hover {
+	text-decoration-color: #00A8C7;
+}
+.link-2:hover {
+	text-decoration-color: #FFD02E;
+}
+.link-3:hover {
+	text-decoration-color: #3D168B;
+}
+.link-4:hover {
+	text-decoration-color: #F94C57;
+}
+.link-5:hover {
 	text-decoration-color: #B48EAD;
+}
+.link-6:hover {
+	text-decoration-color: #2867B2;
 }
