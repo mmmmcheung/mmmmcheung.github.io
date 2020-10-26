@@ -20,3 +20,6 @@ a {
 	color: #363537;
 	text-decoration: underline;
 }
+.link-1:hover {
+	text-decoration-color: #B48EAD;
+}
