@@ -9,7 +9,7 @@ body {
   color: #101820;
   padding:0 10px;
   font-family: "Inter", sans-serif;
-  font-optical-sizing: 30;
+  font-optical-sizing: auto;
 }
 
 h1,h2,h3{
